@@ -10,6 +10,9 @@ db.sqlite3
 .venv/
 venv/
 
+
+migrations/
+
 # Ignore VSCode settings (optional if you use VSCode)
 .vscode/
 
