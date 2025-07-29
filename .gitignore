@@ -1,0 +1,18 @@
+# Ignore Python cache files
+*.pyc
+__pycache__/
+
+# Ignore local database
+db.sqlite3
+
+# Ignore environment files
+.env
+.venv/
+venv/
+
+# Ignore VSCode settings (optional if you use VSCode)
+.vscode/
+
+# Ignore any system-specific files
+.DS_Store
+Thumbs.db
